@@ -4,4 +4,4 @@
 
 > Instructor: Steve VanDevender
 
-
+> Course Website: http://pages.uoregon.edu/stevev/cis399/
